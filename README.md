@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedrizwan" alt="muhammedrizwan" /></a> </p>
 
-- 🌱 I’m currently learning **redis,microservices**
+- 🌱 I’m currently learning **Next js**
 
-- 💬 Ask me about **next js,react,express js,javascript**
+- 💬 Ask me about **react,express js,javascript**
 
 - 📫 How to reach me **mhdrizwanpkd@gmail.com**
 
